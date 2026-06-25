@@ -32,8 +32,8 @@
     {
       "id": "com.Nnnnnnn274.iconshake",
       "name": "Icon Shake",
-      "description": "Makes home screen icons wiggle for a moment whenever you tap on the screen, with an optional always-wiggle mode.",
-      "version": "1.0.0",
+      "description": "Shakes home screen icons when you tap, driven by live CABasicAnimation on each icon's CALayer (RemoteCall). Includes an always-wiggle mode.",
+      "version": "1.1.0",
       "symbol": "hand.tap.fill",
       "author": "Nnnnnnn274",
       "scriptURL": "https://Nnnnnnn274.github.io/cyanide-repo/IconShake.js"
