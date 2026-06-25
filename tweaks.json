@@ -1,0 +1,33 @@
+{
+  "repoName": "Nnnnnnn274's Repo",
+  "author": "Nnnnnnn274",
+  "tweaks": [
+    {
+      "id": "com.Nnnnnnn274.systemcolors",
+      "name": "System Colors",
+      "description": "Customize iOS system colors including label, background, tint, and all semantic colors.",
+      "version": "1.0.0",
+      "symbol": "paintpalette.fill",
+      "author": "Nnnnnnn274",
+      "scriptURL": "https://Nnnnnnn274.github.io/cyanide-repo/SystemColors.js"
+    },
+    {
+      "id": "com.Nnnnnnn274.statusbarcleaner",
+      "name": "Status Bar Cleaner",
+      "description": "Hides the location breadcrumb banner and No Service status bar item.",
+      "version": "2.0.0",
+      "symbol": "minus.circle.fill",
+      "author": "Nnnnnnn274",
+      "scriptURL": "https://Nnnnnnn274.github.io/cyanide-repo/StatusBarCleaner_2.js"
+    },
+    {
+      "id": "com.Nnnnnnn274.disabletodayview",
+      "name": "Disable Today View",
+      "description": "Blocks the Today widget screen from appearing when swiping left on the home screen.",
+      "version": "1.0.0",
+      "symbol": "hand.raised.slash.fill",
+      "author": "Nnnnnnn274",
+      "scriptURL": "https://Nnnnnnn274.github.io/cyanide-repo/disable_today_view.js"
+    }
+  ]
+}
