@@ -28,6 +28,15 @@
       "symbol": "hand.raised.slash.fill",
       "author": "Nnnnnnn274",
       "scriptURL": "https://Nnnnnnn274.github.io/cyanide-repo/disable_today_view.js"
+    },
+    {
+      "id": "com.Nnnnnnn274.iconshake",
+      "name": "Icon Shake",
+      "description": "Makes home screen icons wiggle for a moment whenever you tap on the screen, with an optional always-wiggle mode.",
+      "version": "1.0.0",
+      "symbol": "hand.tap.fill",
+      "author": "Nnnnnnn274",
+      "scriptURL": "https://Nnnnnnn274.github.io/cyanide-repo/IconShake.js"
     }
   ]
 }
